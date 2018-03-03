@@ -1,2 +1,2 @@
 # Project-one
-First project repo
+First project repository
